@@ -7,7 +7,7 @@ public class RightHalfPyramid {
                 {
                     System.out.println();
                     System.out.println("Hi");
-                    int i = 0;
+                    long l = 45;
                 }
             }
         }
