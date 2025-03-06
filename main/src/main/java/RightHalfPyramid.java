@@ -8,6 +8,7 @@ public class RightHalfPyramid {
                     System.out.println();
                     System.out.println("Hi");
                     long l = 45;
+                    System.out.println("Hello World");
                 }
             }
         }
